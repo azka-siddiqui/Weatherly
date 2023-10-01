@@ -19,7 +19,7 @@
 }
  body {
      background-color: #CDDEF3;
-     background: url("../img/cover-lighter.png") no-repeat center center;
+     background: url("../images/cover-lighter.png") no-repeat center center;
      background-size: cover;
      background-attachment: fixed;
      font-family: 'Roboto', sans-serif;
