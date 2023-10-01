@@ -1,4 +1,4 @@
-# Weathery
+# Weatherly
 
 ## Overview
 A simple a easy-to-use website that allows people to quickly see both current and hourly weather conditions.
